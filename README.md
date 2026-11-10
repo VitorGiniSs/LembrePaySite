@@ -57,7 +57,7 @@ O LembrePay é uma aplicação web desenvolvida para facilitar o gerenciamento d
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/LembrePay.git
+git clone https://github.com/VitorGiniSs/LembrePaySite.git
 cd LembrePay
 ```
 
